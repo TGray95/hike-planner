@@ -1,4 +1,4 @@
-# Team-Fabulous-P1-API-Application
+# Hike Planner
 ## Description
 
 Application displaying usage of server-side API's that allows the user to check for National Park amenities and local weather to plan for their outdoor activities accordingly.  
